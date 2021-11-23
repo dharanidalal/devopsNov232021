@@ -1,4 +1,5 @@
 print("hello world!")
 print("This is line from dev branch")
 print"this is third line")
-print"this is fourth line")
+print("This is for testing conflict from dev") 
+print("this is fourth line")
